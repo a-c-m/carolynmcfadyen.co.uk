@@ -1,0 +1,5 @@
+Sitemap: http://www.carolynmcfadyen.co.uk/sitemap.xml
+
+User-agent: *
+Disallow: /assets/
+Crawl-Delay: 300
